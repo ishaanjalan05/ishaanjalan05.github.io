@@ -1,0 +1,86 @@
+
+header
+{
+    text-align :center ;
+    font-size : 25pt ;
+    font-family : helvetica ;
+    background-color: #477bff;
+    color: white ;
+    margin-bottom: 2rem;
+    padding: 3.5rem 1rem;
+}
+
+
+.introduction
+{
+    padding: 0.5rem 2rem 1rem 2rem ;
+    font-size : 14pt;
+    font-family :arial ;
+    background-color : #f5f5dc;
+
+}
+
+#unique
+{
+    height :350px;
+    padding-left: 550px;
+     margin-bottom: 2rem;
+}
+
+.hobbies
+{
+    padding: 0.5rem 2rem 1rem 2rem ;
+    font-size : 14pt;
+    font-family : Georgia ;
+
+}
+
+ a
+{
+ text-decoration :none;
+}
+a:hover
+{
+text-decoration : underline ;
+ }
+#basketball
+ {
+    color : brown;
+ }
+ #cricket
+ {
+     color :green;
+ }
+
+ #office
+ {
+     color : red ;
+ }
+
+.basket
+{
+    text-align :center ;
+    font-size : 30pt;
+    background-color: brown;
+    color: white ;
+    margin-bottom: 1.5rem;
+    padding: 3.5rem 1rem;
+    font-family : helvetica;
+}
+
+
+#java
+{
+    padding-right : 91.5rem;
+    color : green;
+}
+.cric
+{
+    text-align :center ;
+    font-size : 30pt;
+    background-color: blue;
+    color: white ;
+    margin-bottom: 1.5rem;
+    padding: 3.5rem 1rem;
+    font-family : helvetica;
+}
